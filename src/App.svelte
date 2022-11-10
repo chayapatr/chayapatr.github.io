@@ -1,59 +1,46 @@
-<div class="w-full min-h-[100vh] flex flex-col items-center justify-center">
-  <h1 class="text-3xl md:text-4xl font-serif m-4 text-center">
-    Chayapatr Archiwaranguprok
-  </h1>
-  <div class="flex flex-wrap justify-center align-center max-w-[80%]">
-    <a href="https://spaceth.co/author/chayapatr">Spaceth.co</a>|
-    <a href="https://chayapatr.medium.com">Medium</a>|
-    <a href="https://facebook.com/chayapatr">Facebook</a>|
-    <a href="https://github.com/chayapatr">Github</a>|
-    <a href="https://creatorsgarten.org">Creatorsgarten</a>|
-    <a
-      href="https://creatorsgarten.org/ring"
-      class="flex justify-center items-center"
-      ><svg
-        class="h-4 font-lg hover:fill-black transition-all my-1"
-        viewBox="0 0 1080 1080"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
+<div class="container pb-container">
+  <div class="flex justify-between text-lg md:text-xl">
+    <a href="/" class="">Chayapatr | ชยภัทร</a>
+    <div class="hidden md:flex gap-4">
+      <a href="https://fb.me/chayapatr" class="hover:underline hover:bg-white"
+        >Facebook</a
       >
-        <g clip-path="url(#clip0_668_44662)">
-          <path
-            d="M426 238C426 335.137 345.25 416 243 416C140.75 416 60 335.137 60 238C60 140.863 140.75 60 243 60C345.25 60 426 140.863 426 238Z"
-            stroke="black"
-            stroke-width="120"
-          />
-          <path
-            d="M648 639H1020V1020H648V639Z"
-            stroke="black"
-            stroke-width="120"
-          />
-          <path
-            d="M1016.48 416H648V63.5824C854.407 88.5054 1006.53 240.213 1016.48 416Z"
-            stroke="black"
-            stroke-width="120"
-          />
-          <path
-            d="M60.3504 639L426 639L426 1016.12C222.324 989.524 68.6188 829.45 60.3504 639Z"
-            stroke="black"
-            stroke-width="120"
-          />
-        </g>
-        <defs>
-          <clipPath id="clip0_668_44662">
-            <rect width="1080" height="1080" fill="white" />
-          </clipPath>
-        </defs>
-      </svg>
-    </a>
+      <a
+        href="https://twitter.com/rtapayahc"
+        class="hover:underline hover:bg-white">Twitter</a
+      >
+      <a
+        href="mailto:pub@creatorsgarten.org"
+        class="hover:underline hover:bg-white">Email</a
+      >
+    </div>
+  </div>
+
+  <div class="text-huge">Hi, my name is Pub</div>
+  <div class="text-huge">
+    I do <a href="https://spaceth.co/author/chayapatr">🪐 stuff</a>,
+    <a href="https://spaceth.co/author/chayapatr">🎙️ a podcast</a>,
+    <a href="https://creatorsgarten.org">🦄 events & communities</a>,
+    <a href="https://github.com/chayapatr">💻 codes</a>,
+    <a href="https://github.com/chayapatr">👾 projects</a>,
+    <a href="https://instagram.com/chayapatr">📸 (sometimes)</a>,
+    <a href="https://chayapatr.medium.com">and ✏️ about things</a>.
+  </div>
+  <div class="text-huge">
+    I once <a href="https://spaceth.co/messe">🚀 a 🧬 storage to space</a>,
+    <a
+      href="https://chayapatr.medium.com/%E0%B9%84%E0%B8%A1%E0%B9%88-forgotten-%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B8%98%E0%B8%A2%E0%B8%A1%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%B5-87c9a7af2fb4"
+      >🪄 a theatrical play</a
+    >, translated a 📖 (👀),
+    <a href="https://www.thaipbspodcast.com/podcast/starstuff"
+      >🥉 a national computer olympiad</a
+    >, and won ✊✋✌️ for 30 rounds straight.
+  </div>
+
+  <div class="text-huge">
+    <a
+      href="https://chayapatr.medium.com/%E0%B9%84%E0%B8%A1%E0%B9%88-forgotten-%E0%B9%83%E0%B8%99%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B8%98%E0%B8%A2%E0%B8%A1%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%B5-87c9a7af2fb4"
+      >⭕️ Creatorsgarten's Webring</a
+    >
   </div>
 </div>
-
-<style>
-  a {
-    @apply hover:text-gray-600 transition-all;
-  }
-  a {
-    @apply text-lg font-sans mx-1;
-  }
-</style>

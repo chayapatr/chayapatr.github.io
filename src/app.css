@@ -38,7 +38,7 @@ body {
 }
 
 .pb-container {
-  @apply m-auto w-full pl-6 pr-10 py-4 lg:px-8 mb-10 flex gap-6 lg:gap-7 flex-col;
+  @apply m-auto w-full pl-6 pr-10 py-4 lg:px-8 lg:mb-10 flex gap-5 lg:gap-7 flex-col;
 }
 
 a {
